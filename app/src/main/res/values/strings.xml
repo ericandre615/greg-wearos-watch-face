@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GregWatchFace</string>
+    <string name="message">僕はグレッグです</string>
+    <string name="my_analog_name">Greg グレッグ</string>
+</resources>
